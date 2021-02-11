@@ -1,4 +1,3 @@
 def say_hello
-  puts
-  ("Kent Beck")
+  puts("Kent Beck")
 end

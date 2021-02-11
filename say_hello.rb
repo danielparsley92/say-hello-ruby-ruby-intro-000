@@ -1,1 +1,2 @@
-say_hello ("Kent Black")
+def say_hello ("Kent Black")
+end

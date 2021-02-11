@@ -1,3 +1,3 @@
 def say_hello
-  puts ("Ruby Programmer!")
+  puts ("Kent Beck")
 end

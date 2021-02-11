@@ -1,2 +1,3 @@
-def say_hello ("Kent Black")
+def say_hello
+  puts ("Ruby Programmer!")
 end
